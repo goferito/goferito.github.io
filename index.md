@@ -3,6 +3,8 @@ layout: default
 title: Main
 ---
 
-## Willkommen yo!
+## Mellow greetings!
 
-*This is just some testing text*
+You have just landed on my personal github page.
+
+
