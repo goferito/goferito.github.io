@@ -218,6 +218,11 @@ footer {
   }
 }
 
+h1 a {
+  color: #444;
+  text-shadow: 0 0 1px #44f;
+}
+
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
