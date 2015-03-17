@@ -9,10 +9,17 @@ a taste for web development and IT security.
 
 ### Education
 
-Master's degree, IT Security, Universitat Oberta de Catalunya (2012 - ongoing part time)
-Erasmus Exchange Programme, Gazi Üniversitesi (Ankara) (2010 - 2011)
-Master's degree, Software Engineering, Universidade de Vigo (2008 - 2010)
-Bachelor's degree, Software Engineering, Universidade de Vigo (2004 - 2008)
+Master's degree, IT Security (2012 - ongoing part time)
+Universitat Oberta de Catalunya 
+
+Erasmus Exchange Programme (2010 - 2011)
+Gazi Üniversitesi (Ankara) 
+
+Master's degree, Software Engineering (2008 - 2010)
+Universidade de Vigo 
+
+Bachelor's degree, Software Engineering (2004 - 2008)
+Universidade de Vigo 
 
 ### Proficiencies
 
