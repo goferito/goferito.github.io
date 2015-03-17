@@ -20,9 +20,10 @@ a taste for web development and IT security.
 
 ##### Software Engineer - February 2013 -
 
-Developing the whole stack of the comparison engine used in versus.com,
-based on Node.js, MongoDB, Redis and React, and administrating the
-system in a high-availability, bare metal, Linux cluster.
+Developing the whole stack of the comparison engine used in
+[Versus.com](http://versus.com), based on Node.js, MongoDB,
+Redis and React, and administrating the system in a high-availability,
+bare metal, Linux cluster.
 
 #### [University of Vigo](http://www.uvigo.es), Vigo, Spain
 
