@@ -17,13 +17,15 @@ a taste for web development and IT security.
 ### Professional Experience
 
 #### [URGE IO](http://versus.com), Berlin, Germany
+
 ##### Software Engineer - February 2013 -
 
 Developing the whole stack of the comparison engine used in versus.com,
 based on Node.js, MongoDB, Redis and React, and administrating the
 system in a high-availability, bare metal, Linux cluster.
 
-#### [University of Vigo](http://www.uvigo.es), Vigo, Spain  
+#### [University of Vigo](http://www.uvigo.es), Vigo, Spain
+
 ##### System Administrator Intern - October 2011 to October 2012
 
 Maintenance of systems and equipment for the
