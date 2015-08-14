@@ -33,6 +33,9 @@ Maintenance of systems and equipment for the
 University of Vigo Industrial Engineering Faculty.
 
 #### Freelance Web Developer, Vigo, Spain
+
+##### Full Stack Web Developer - October 2007 to March 2013
+
 Either working individually or as part of small teams I have been
 developing LAMP web sites, aided by jQuery for the improvement of
 user experience. The public zone of my two longest developments
