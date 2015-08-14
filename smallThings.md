@@ -4,7 +4,7 @@ title: Small Things
 ---
 
 ### Small Things that make me think I'm on the right direction
-*And somehow I feel proud about*
+*And somehow pretty proud about them*
 
 * My [Bing API Node.js module](https://www.npmjs.com/package/node-bing-api),
 and the 600 downloads a month it has with every new version.
