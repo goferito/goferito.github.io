@@ -11,6 +11,7 @@ and the 600 downloads a month it has with every new version.
 
 * The few points I got on [StackOverflow](http://stackoverflow.com/users/1612319/mr-goferito).
 
-* The interest my [Proof of Concept with Google Analytics](https://github.com/goferito/gapoc) got on [Hacker News](https://news.ycombinator.com/item?id=9857876) question.
+* The interest my [Proof of Concept with Google Analytics](https://github.com/goferito/gapoc) got on this [Hacker News](https://news.ycombinator.com/item?id=9857876) question.
 
-* Each of my side projects, some opensourced on [my Github account](https://github.com/goferito) and some live on [LockShade](//locksha.de).
+* Each of my side projects, some of them opensourced on [my Github account](https://github.com/goferito) and some of them live on [LockShade](//locksha.de).
+
