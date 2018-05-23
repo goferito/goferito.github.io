@@ -16,12 +16,12 @@ a taste for web development and IT security.
 
 ### Professional Experience
 
-#### [URGE IO](http://versus.com), Berlin, Germany
+#### [URGE IO](https://versus.com), Berlin, Germany
 
 ##### Software Engineer - February 2013 -
 
 Developing the whole stack of the comparison engine used in
-[Versus.com](http://versus.com), based on Node.js, MongoDB,
+[Versus.com](https://versus.com), based on Node.js, MongoDB,
 Redis and React, and administrating the system in a high-availability,
 bare metal, Linux cluster.
 
@@ -40,22 +40,22 @@ Either working individually or as part of small teams I have been
 developing LAMP web sites, aided by jQuery for the improvement of
 user experience. The public zone of my two longest developments
 are still available on
-[http://www.turismodegalicia.org](www.turismodegalicia.org)
-and [http://www.breakpoint.es](www.breakpoint.es).
+[http://www.turismodegalicia.org](http://www.turismodegalicia.org)
+and [http://www.breakpoint.es](http://www.breakpoint.es).
 
 ### Education
 
-Master's degree, IT Security (2012 - ongoing part time)  
-Universitat Oberta de Catalunya 
+Master's degree, IT Security (2012 - ongoing part time)
+Universitat Oberta de Catalunya
 
-Erasmus Exchange Programme (2010 - 2011)  
-Gazi Üniversitesi (Ankara) 
+Erasmus Exchange Programme (2010 - 2011)
+Gazi Üniversitesi (Ankara)
 
-Master's degree, Software Engineering (2008 - 2010)  
-Universidade de Vigo 
+Master's degree, Software Engineering (2008 - 2010)
+Universidade de Vigo
 
-Bachelor's degree, Software Engineering (2004 - 2008)  
-Universidade de Vigo 
+Bachelor's degree, Software Engineering (2004 - 2008)
+Universidade de Vigo
 
 ### Languages
 * Spanish (native)
